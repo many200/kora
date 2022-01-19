@@ -4,7 +4,7 @@ import img from '../src/assets/logo.jpg'
 function App() {
   return (
     <div className="App">
-      <div  style={{fontSize:"25px", color:"white"}}>
+      <div className='titre'  style={{fontSize:"25px", color:"white"}}>
       مرحبا!
  شاهد جميع المباريات مباشرة على موقع الكورة
       </div>
